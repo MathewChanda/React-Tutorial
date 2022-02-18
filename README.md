@@ -8,7 +8,7 @@ These are some helpful links to reference for information on ```React``` and ```
 * [Create a New React App](https://github.com/facebook/create-react-app "Create a New React App")
 * [Additional information and troubleshoot about React and its necessary tools](https://reactjs.org/tutorial/tutorial.html)
 
-1. To begin working with React, [please visit this link and install NodeJS (the latest LTS version for your OS) on your local computer](https://nodejs.org/en/).
+1. To begin working with React, [please visit this link and install NodeJS (the latest LTS version for your OS) on your local computer](https://nodejs.org/en/) and [Create-React-App CLI program](https://github.com/facebook/create-react-app "Create a New React App")
 
 ### Clone Your Personal Repo...
 We would recommend creating a personal repo for this project. We have a template repo that we are providing to you, which has a directory structure that is also recommended for you to follow.  
