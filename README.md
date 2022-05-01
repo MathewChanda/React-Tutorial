@@ -22,6 +22,7 @@ cd my-app
 
 3. Run the following command to run React app locally on localhost:3000
 ```
+npm install
 npm start
 ```
  
